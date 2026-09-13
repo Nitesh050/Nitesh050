@@ -27,14 +27,14 @@ In active development — domain and engine packages are in place, services are 
 
 ## Other projects
 
-**[RAG-Based PDF Analyzer](https://github.com/Nitesh050/Rag_Based_Analyzer)** —
+**[RAG-Based PDF Analyzer](https://github.com/Nitesh050/rag-pdf-analyzer)** —
 natural-language querying over uploaded PDFs. LangChain ingestion pipeline
 (loading, chunking, embeddings) indexed into ChromaDB, with retrieval quality
 pushed up via metadata filtering, BM25, hybrid search, and reranking. Locally
 hosted LLMs through Ollama behind FastAPI endpoints, fully containerised for
 one-command setup.
 
-**[Full-Stack E-Commerce Platform](https://github.com/Nitesh050/perfume)** —
+**[Full-Stack E-Commerce Platform](https://github.com/Nitesh050/ecommerce-platform)** —
 React and Node/Express over a normalised PostgreSQL schema, with indexed catalog
 and order-history queries, hashed-password auth with protected routes, and a
 payment gateway integration handling transaction verification and failure paths.
