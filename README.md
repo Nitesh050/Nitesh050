@@ -54,9 +54,6 @@ cancellation that cut redundant LLM token spend on superseded work.
 **Backend** FastAPI · Node.js · Docker · PostgreSQL · ChromaDB
 **Other** React · AWS (EC2, S3, Lambda) · Linux · Git
 
-Also a core committee member at the Mozilla Firefox Club, VIT Vellore, where I
-help run workshops and hackathons.
-
 ## Reach me
 
 - mniteshpandey.005@gmail.com
